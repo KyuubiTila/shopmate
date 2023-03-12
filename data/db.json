@@ -1,0 +1,28 @@
+{
+  "products": [
+    {
+      "id": 10001,
+      "name": "Basics to Advance in React",
+      "price": 29,
+      "in_stock": true
+    },
+    {
+      "id": 10002,
+      "name": "Django can eat Banana",
+      "price": 35,
+      "in_stock": true
+    },
+    {
+      "id": 10003,
+      "name": "Animals in the forest are wild",
+      "price": 43,
+      "in_stock": true
+    },
+    {
+      "id": 10004,
+      "name": "Politicians and their lies",
+      "price": 19,
+      "in_stock": false
+    }
+  ]
+}
